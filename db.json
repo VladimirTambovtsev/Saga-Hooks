@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work income!"
+    },
+    {
+      "id": 2,
+      "description": "Work bill"
+    },
+    {
+      "id": 4,
+      "description": "Car"
+    },
+    {
+      "id": "03a73424-2deb-4989-b963-bb26ffbe103c",
+      "description": "testqwe"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": 1002,
+      "isExpense": false
+    },
+    {
+      "id": 2,
+      "value": 80,
+      "isExpense": true
+    },
+    {
+      "id": 4,
+      "value": 15,
+      "isExpense": true
+    },
+    {
+      "id": "03a73424-2deb-4989-b963-bb26ffbe103c",
+      "isExpense": "",
+      "value": "1234"
+    }
+  ]
+}
